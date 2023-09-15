@@ -2,4 +2,4 @@ module example.com/example
 
 go 1.21
 
-toolchain 1.21
+toolchain go1.21.0
